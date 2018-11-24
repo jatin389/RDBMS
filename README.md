@@ -1,5 +1,5 @@
 # RDBMS
-Try to understand and develop a smaller version of sqlite
+Prototype of SQLite - to understand the working of DATABASE(S) in a better way.
 
 
 references:-
